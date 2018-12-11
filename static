@@ -1,0 +1,55 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 72BC-5EAA
+
+ Directory of C:\Users\abc\frontend\build
+
+12/10/2018  11:23 AM    <DIR>          .
+12/10/2018  11:23 AM    <DIR>          ..
+12/10/2018  11:23 AM               779 asset-manifest.json
+10/26/1985  01:45 PM             3,870 favicon.ico
+12/10/2018  11:23 AM             2,057 index.html
+10/26/1985  01:45 PM               306 manifest.json
+12/10/2018  11:23 AM               606 precache-manifest.40663068cfb8cad26b9d8c9084d4ae11.js
+12/10/2018  11:23 AM             1,041 service-worker.js
+12/10/2018  11:23 AM    <DIR>          static
+               6 File(s)          8,659 bytes
+
+ Directory of C:\Users\abc\frontend\build\static
+
+12/10/2018  11:23 AM    <DIR>          .
+12/10/2018  11:23 AM    <DIR>          ..
+12/10/2018  11:23 AM    <DIR>          css
+12/10/2018  11:23 AM    <DIR>          js
+12/10/2018  11:23 AM    <DIR>          media
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\abc\frontend\build\static\css
+
+12/10/2018  11:23 AM    <DIR>          .
+12/10/2018  11:23 AM    <DIR>          ..
+12/10/2018  11:23 AM               984 main.22d73cd5.chunk.css
+12/10/2018  11:23 AM             1,598 main.22d73cd5.chunk.css.map
+               2 File(s)          2,582 bytes
+
+ Directory of C:\Users\abc\frontend\build\static\js
+
+12/10/2018  11:23 AM    <DIR>          .
+12/10/2018  11:23 AM    <DIR>          ..
+12/10/2018  11:23 AM           111,505 1.82dafdb5.chunk.js
+12/10/2018  11:23 AM           319,468 1.82dafdb5.chunk.js.map
+12/10/2018  11:23 AM             1,342 main.486084fb.chunk.js
+12/10/2018  11:23 AM             7,347 main.486084fb.chunk.js.map
+12/10/2018  11:23 AM             1,502 runtime~main.229c360f.js
+12/10/2018  11:23 AM             7,996 runtime~main.229c360f.js.map
+               6 File(s)        449,160 bytes
+
+ Directory of C:\Users\abc\frontend\build\static\media
+
+12/10/2018  11:23 AM    <DIR>          .
+12/10/2018  11:23 AM    <DIR>          ..
+12/10/2018  11:23 AM             2,671 logo.5d5d9eef.svg
+               1 File(s)          2,671 bytes
+
+     Total Files Listed:
+              15 File(s)        463,072 bytes
+              14 Dir(s)  136,679,010,304 bytes free
